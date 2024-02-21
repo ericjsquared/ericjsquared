@@ -1,4 +1,8 @@
-### Hi there 👋
+### Eric Jordan
+
+<div id="header" align="left">
+  <img src="https://media.tenor.com/tKr0Huqq9vUAAAAi/cake-monster-monsta.gif" width="100"/>
+</div>
 
 <!--
 **ericjsquared/ericjsquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
