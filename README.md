@@ -1,6 +1,8 @@
-### Eric Jordan
 
 <div id="header" align="left">
+  <h1>Eric Jordan</h1>
+</div>
+<div id="headerimg" align="right">
   <img src="https://media.tenor.com/tKr0Huqq9vUAAAAi/cake-monster-monsta.gif" width="100"/>
 </div>
 
